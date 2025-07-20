@@ -25,10 +25,3 @@ This project is a machine learning-based application for classifying different t
    python app.py
    ```
 
-## Project Structure
-
-- `app.py` — Main application file
-- `model/` — Trained model and related scripts
-- `static/` — Static files (images, CSS, etc.)
-- `templates/` — HTML templates
-- `.gitignore` — Files and folders not tracked by git
