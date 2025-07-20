@@ -1,0 +1,7 @@
+TrashType_Image_Dataset/
+venv/
+__pycache__/
+logs/
+outputs/
+*.pyc
+garbage_dataset_split
